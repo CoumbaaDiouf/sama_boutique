@@ -87,7 +87,7 @@ GET https://dummyjson.com/products
 ```
 
 ## Captures d'écran
-![Accueil](captures/accueil.jpeg)
+![Accueil](captures/Accueil.jpeg)
 ![Détail](captures/detail.jpeg)
 ![Panier](captures/panier.jpeg)
 
