@@ -68,7 +68,7 @@ Le panier (`CartController`) est une instance unique partagée : `ProductCard` y
 
 ```bash
 # 1. Cloner le dépôt
-git clone <lien-du-depot>
+git clone https://github.com/CoumbaaDiouf/sama_boutique
 cd sama_boutique
 
 # 2. Installer les dépendances
